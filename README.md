@@ -1,2 +1,2 @@
-# affirmations
+# Affirmations App
 Affirmations app
